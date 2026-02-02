@@ -1,1 +1,5 @@
+# Sign up for your account at GROQ Cloud Platform
 https://console.groq.com/home
+
+> Create your account.
+> Generate the API key and save it for later use.
