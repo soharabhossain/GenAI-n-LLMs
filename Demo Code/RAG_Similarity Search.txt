@@ -1,0 +1,21 @@
+# Build a semantic search engine with LangChain
+https://docs.langchain.com/oss/python/langchain/knowledge-base
+
+
+# Retrieval
+https://docs.langchain.com/oss/python/langchain/retrieval
+
+
+# Text Splitter
+https://docs.langchain.com/oss/python/integrations/splitters
+
+
+# Embedding Models
+https://docs.langchain.com/oss/python/integrations/text_embedding
+
+
+# Vector Store
+https://docs.langchain.com/oss/python/integrations/vectorstores
+
+
+
