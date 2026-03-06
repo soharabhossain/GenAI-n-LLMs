@@ -1,0 +1,26 @@
+# Go to Huggingface and Signup for an Account, Create your API token (HF_TOKEN). 
+
+https://huggingface.co/
+
+Save your HF_TOKEN as a environment variable (secret) on Google Colab platform (or save as OS env variable in your Jupyter Notebook)
+ 
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+------------
+# Resources
+------------
+
+# Huggingface Model Hub
+https://huggingface.co/models
+
+# Huggingface Course on Youtube (Playlist)
+https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o
+
+# Total noob’s intro to Hugging Face Transformers
+https://huggingface.co/blog/noob_intro_transformers
+
+# Transformers Notebooks
+https://huggingface.co/docs/transformers/en/notebooks
+https://github.com/huggingface/notebooks
+
+
