@@ -2,7 +2,7 @@
 
 https://huggingface.co/
 
-Save your HF_TOKEN as a environment variable (secret) on Google Colab platform (or save as OS env variable in your Jupyter Notebook)
+Save your HF_TOKEN as an environment variable (secret) on Google Colab platform (or save as OS env variable in your Jupyter Notebook)
  
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -22,5 +22,6 @@ https://huggingface.co/blog/noob_intro_transformers
 # Transformers Notebooks
 https://huggingface.co/docs/transformers/en/notebooks
 https://github.com/huggingface/notebooks
+
 
 
