@@ -1,0 +1,29 @@
+# Go to Huggingface and Signup for an Account, Create your API token (HF_TOKEN). 
+
+https://huggingface.co/
+
+Save your HF_TOKEN as an environment variable (secret) on Google Colab platform (or save as OS env variable in your Jupyter Notebook)
+ 
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+------------
+# Resources
+------------
+
+# Huggingface Model Hub
+https://huggingface.co/models
+
+# Huggingface Datasets
+https://huggingface.co/datasets
+
+# Huggingface LLM Fine-tuning
+https://huggingface.co/docs/autotrain/main/en/tasks/llm_finetuning
+
+# Evaluating LoRA Fine-Tuning Results
+https://heidloff.net/article/evaluating-lora-fine-tuning-results/
+
+# Are You Still Using LoRA to Fine-Tune Your LLM?
+https://towardsdatascience.com/are-you-still-using-lora-to-fine-tune-your-llm/
+
+
+
