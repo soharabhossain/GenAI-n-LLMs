@@ -1,0 +1,29 @@
+-------------------------------
+# Hugging Face Evaluate Library
+-------------------------------
+The Hugging Face evaluate library is used to calculate metrics like BLEU and ROUGE for LLM evaluation. These metrics compare machine-generated text against a human-written reference text based on word or n-gram overlap.
+
+https://huggingface.co/docs/evaluate/index
+
+------------------------------
+# Using the Evaluator
+------------------------------
+
+https://huggingface.co/docs/evaluate/base_evaluator
+
+
+---------
+Examples
+---------
+# TextClassificationEvaluator
+
+https://huggingface.co/docs/evaluate/v0.4.6/en/package_reference/evaluator_classes#evaluate.TextClassificationEvaluator
+
+
+# QuestionAnsweringEvaluator
+https://huggingface.co/docs/evaluate/v0.4.6/en/package_reference/evaluator_classes#evaluate.QuestionAnsweringEvaluator
+
+
+# TextGenerationEvaluator
+https://huggingface.co/docs/evaluate/v0.4.6/en/package_reference/evaluator_classes#evaluate.TextGenerationEvaluator
+
